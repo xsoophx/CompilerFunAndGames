@@ -1,0 +1,12 @@
+# CMake
+cmake-build-*/
+
+# idea
+.idea/*
+!.idea/codeStyles/
+
+# main
+main.c
+
+# a.out
+a.out
